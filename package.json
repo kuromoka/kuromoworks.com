@@ -1,0 +1,22 @@
+{
+  "name": "kuromoworks.com",
+  "version": "1.0.0",
+  "description": "https://kuromoworks.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuromoka/kuromoworks.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuromoka/kuromoworks.com/issues"
+  },
+  "homepage": "https://github.com/kuromoka/kuromoworks.com#readme",
+  "dependencies": {
+    "vercel": "^23.1.2"
+  }
+}
